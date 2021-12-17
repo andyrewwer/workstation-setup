@@ -1,3 +1,6 @@
+# Andrew's command:
+./setup.sh docker golang java kubernetes node python ruby terraform
+
 # Workstation Setup
 
 This project automates the process of setting up a new Mac OS X software development machine using simple [Bash](https://www.gnu.org/software/bash/) scripting. It heavily relies on [homebrew](https://brew.sh/).
