@@ -7,3 +7,5 @@ brew install hashicorp/tap/terraform
 # shell completion
 
 terraform -install-autocomplete
+brew install terragrunt
+brew install tfswitch
