@@ -16,3 +16,5 @@ echo 'alias k=kubectl' >>~/.zshrc
 echo 'complete -F __start_kubectl k' >>~/.zshrc
 echo 'autoload -Uz compinit' >>~/.zshrc
 echo 'compinit' >>~/.zshrc
+
+brew install minikube
