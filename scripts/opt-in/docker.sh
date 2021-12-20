@@ -5,6 +5,9 @@ set +e
 brew install --cask docker
 echo "To get docker command-line tools, run the docker application"
 
+# Virtual Box
+brew install --cask virtualbox
+
 # Docker Zsh Completion
 # Reference https://docs.docker.com/docker-for-mac/
 etc=/Applications/Docker.app/Contents/Resources/etc
