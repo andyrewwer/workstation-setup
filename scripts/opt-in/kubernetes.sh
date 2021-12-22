@@ -2,6 +2,7 @@ echo
 echo "Installing common Kubernetes tooling"
 
 brew install kubectl
+brew install --cask google-cloud-sdk
 # Shell completion
 FILE=~/.zshrc
 if [[ -f "$FILE" ]]; then
