@@ -18,3 +18,4 @@ echo 'autoload -Uz compinit' >>~/.zshrc
 echo 'compinit' >>~/.zshrc
 
 brew install minikube
+brew install helm
