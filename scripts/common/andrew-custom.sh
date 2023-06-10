@@ -6,7 +6,7 @@ set +e
 
 echo
 echo "Installing utilities for Andrew"
-brew install --cask rocket
+# brew install --cask rocket #emoji finder, free no longer great
 brew install --cask keyboard-maestro
 brew install --cask krisp
 brew install --cask karabiner-elements
