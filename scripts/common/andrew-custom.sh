@@ -12,6 +12,8 @@ brew install --cask krisp
 brew install --cask karabiner-elements
 brew install --cask choosy
 brew install --cask launchbar
+brew install --cask spotify
+brew install --cask warp
 
 echo "Done installing utilities for Andrew"
 
