@@ -13,7 +13,9 @@ brew install --cask choosy
 brew install --cask launchbar
 brew install --cask spotify
 brew install --cask warp
+brew install --cask ecamm-live
 brew install --cask elgato-stream-deck
+
 
 echo "Done installing utilities for Andrew"
 
