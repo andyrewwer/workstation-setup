@@ -23,9 +23,10 @@ echo
 echo "Ensuring your Homebrew directory is writable..."
 sudo chown -Rf $(whoami) $(brew --prefix)/*
 
-echo
-echo "Installing Homebrew services..."
-brew tap homebrew/services
+# deprecated -- 
+# echo
+# echo "Installing Homebrew services..."
+# brew tap homebrew/services
 
 # echo
 # echo "Adding Pivotal tap to Homebrew"
